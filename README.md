@@ -1,1 +1,1 @@
-# docker-stock-php
+# docker-stock-phpClose to stock php containers only with php extensions installed.
