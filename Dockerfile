@@ -9,5 +9,6 @@ RUN apt-get update \
 	php5-curl \
 	php5-gd \
 	php5-ldap \
+	php5-mbstring \
 	&& \
 	rm -rf /var/lib/apt/lists/*
